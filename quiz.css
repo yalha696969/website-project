@@ -1,0 +1,24 @@
+html {
+  background-image: url(220px-Rocket_League_coverart.jpg);
+  background-repeat: repeat;
+}
+
+body {
+  width: 600px;
+  margin: 50px auto;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: bisque;
+  border-radius: 20px;
+  border: solid;
+  padding: 10px 100px 700px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+img {
+  cursor: pointer;
+}
+
+.nav a {
+  margin: 0px 25px;
+}
